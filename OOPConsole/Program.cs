@@ -71,7 +71,7 @@ public class Car : Vehicle
         }
         else
         {
-            Console.WriteLine("Sobrang dami niyo na!");
+            Console.WriteLine($"Sobrang dami niyo na!");
         }
 
     }
