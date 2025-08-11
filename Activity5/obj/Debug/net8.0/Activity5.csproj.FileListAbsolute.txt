@@ -1,0 +1,15 @@
+/workspaces/A_03/Activity5/bin/Debug/net8.0/Activity5
+/workspaces/A_03/Activity5/bin/Debug/net8.0/Activity5.deps.json
+/workspaces/A_03/Activity5/bin/Debug/net8.0/Activity5.runtimeconfig.json
+/workspaces/A_03/Activity5/bin/Debug/net8.0/Activity5.dll
+/workspaces/A_03/Activity5/bin/Debug/net8.0/Activity5.pdb
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.AssemblyInfoInputs.cache
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.AssemblyInfo.cs
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.csproj.CoreCompileInputs.cache
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.sourcelink.json
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.dll
+/workspaces/A_03/Activity5/obj/Debug/net8.0/refint/Activity5.dll
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.pdb
+/workspaces/A_03/Activity5/obj/Debug/net8.0/Activity5.genruntimeconfig.cache
+/workspaces/A_03/Activity5/obj/Debug/net8.0/ref/Activity5.dll
