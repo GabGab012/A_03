@@ -1,0 +1,15 @@
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.AssemblyInfoInputs.cache
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.AssemblyInfo.cs
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.csproj.CoreCompileInputs.cache
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.sourcelink.json
+/workspaces/A_03/ACT6APP/bin/Debug/net8.0/ACT6APP
+/workspaces/A_03/ACT6APP/bin/Debug/net8.0/ACT6APP.deps.json
+/workspaces/A_03/ACT6APP/bin/Debug/net8.0/ACT6APP.runtimeconfig.json
+/workspaces/A_03/ACT6APP/bin/Debug/net8.0/ACT6APP.dll
+/workspaces/A_03/ACT6APP/bin/Debug/net8.0/ACT6APP.pdb
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.dll
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/refint/ACT6APP.dll
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.pdb
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ACT6APP.genruntimeconfig.cache
+/workspaces/A_03/ACT6APP/obj/Debug/net8.0/ref/ACT6APP.dll

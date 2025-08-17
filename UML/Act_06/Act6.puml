@@ -1,0 +1,72 @@
+@startuml
+class Person {
+  + name : string
+}
+class Student {
+  + enrolledCourse : Course
+}
+class Teacher {
+  + subject : string
+  + Teach()
+}
+class Course {
+  + title : string
+  + units : int
+}
+class Department {
+  + name : string
+  + teachers : List<Teacher>
+}
+class Room {
+  + name : string
+}
+class House {
+  + address : string
+  + ShowRooms()
+}
+class Program {
+  + Main()
+}
+Person <|-- Student
+Person <|-- Teacher
+Student --> Course
+Department o-- Teacher
+House *-- Room
+Program ..> Student
+Program ..> Course
+Program ..> Teacher
+Program ..> Department
+Program ..> House
+object Alem <<Student>> {
+  name = "Alem"
+}
+object OOP <<Course>> {
+  title = "OOP"
+  units = 3
+}
+object EngrUmbay <<Teacher>> {
+  name = "ENGR. Umbay"
+  subject = "OOP"
+}
+object MrLee <<Teacher>> {
+  name = "Mr. Lee"
+  subject = "Physics"
+}
+object ComEng <<Department>> {
+  name = "Computer Engineering Department"
+}
+object MyHouse <<House>> {
+  address = "Caloocan"
+}
+object Living <<Room>> {
+  name = "Living Room"
+}
+object Bedroom <<Room>> {
+  name = "Bedroom"
+}
+Alem --> OOP
+ComEng o-- EngrUmbay
+ComEng o-- MrLee
+MyHouse *-- Living
+MyHouse *-- Bedroom
+@enduml
