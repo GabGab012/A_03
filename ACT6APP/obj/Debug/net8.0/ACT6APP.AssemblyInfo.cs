@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACT6APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6553cf2b91c67382c9bb049af07c6e1f9b68dfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b734a6a00c52b0c2928f109ae1a0f499ed14b36")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACT6APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACT6APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
